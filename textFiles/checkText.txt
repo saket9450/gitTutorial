@@ -2,3 +2,4 @@ hey how are you, I am learning this and I will be able to make it. adding one mo
 I am adding a addons you gotta need to be carefull, i Hope that make sense to you.
 Hey I am adding this on checkTextAddOns_Exc to learn branching.
 for delete branch ssdsd
+adding some file information from masters
